@@ -11,6 +11,7 @@ object Upper{
 	
 	def main(args: Array[String]) = {
 		//var up = new Upper
+	  
 		Console.print(Upper.upper("Vasu", "Shreenidhi", "Vidya"))
 		println("")
 	}
